@@ -1,0 +1,87 @@
+big_gcd
+
+
+A=1, B=0, C=0, D=1
+TRYING case gcd(590056b9ff5d2a20a37e, 6105c427a71df2b3fde) = 6
+starting big_gcd
+starting base
+right before while
+starting while loop
+x_tilde = 5900
+y_tilde = 610
+yc = 610
+yd = 611
+xa = 5901
+xb = 5900
+q = e
+q_prime = e
+A-qC = 1
+B-qD = -e
+t = x-qy = 420
+yc = 421
+yd = 412
+xa = 610
+xb = 611
+q = 1
+q_prime = 1
+A-qC = -1
+B-qD = f
+t = x-qy = 1f0
+yc = 1ef
+yd = 1ff
+xa = 421
+xb = 412
+q = 2
+q_prime = 2
+A-qC = 3
+B-qD = -2c
+t = x-qy = 40
+yc = 43
+yd = 14
+xa = 1ef
+xb = 1ff
+q = 7
+q_prime = 19
+HELLOOOOOO
+----------------------------
+starting while loop
+x_tilde = 1f5
+y_tilde = 31
+yc = 34
+yd = 32
+xa = 1f6
+xb = 204
+q = 9
+q_prime = a
+HELLOOOOOO
+----------------------------
+starting while loop
+x_tilde = 4d6
+y_tilde = 610
+yc = 613
+yd = 611
+xa = 4d7
+xb = 4e5
+q = 0
+q_prime = 0
+A-qC = 1
+B-qD = f
+t = x-qy = 4d6
+yc = 4d7
+yd = 4e5
+xa = 613
+xb = 611
+q = 1
+q_prime = 1
+A-qC = 2
+B-qD = -e
+t = x-qy = 13a
+yc = 13c
+yd = 12c
+xa = 4d7
+xb = 4e5
+q = 3
+q_prime = 4
+HELLOOOOOO
+----------------------------
+

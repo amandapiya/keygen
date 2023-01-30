@@ -1,0 +1,11 @@
+1,0,-0x000C
+0,1,-0x000C
+1,1,1,0
+eeeeeeeeeeeeeeee,0,-0x000C
+0,eeeeeeeeeeeeeeee,-0x000C
+1234567890abcdef,1234567890abcdef,1,0
+23ABB9C14E,52E4D8,6E29,1E4AB6
+52E4D8,23ABB9C14E,6E29,1E4AB6
+eeeeeeeeeeeeee,aaaaaaaa,1666666,45333332
+-eeeeeeeeeeeeee,aaaaaaaa,-1666666,-45333332
+00000000fffffffffff,ffffffff,1000,FFF
